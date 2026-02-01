@@ -186,14 +186,7 @@ Urban Pulse showcases how autonomous AI agents can transform city-scale data int
 
 ---
 
-## 👩‍💻 Author
 
-**Mary Lavanitha Sunder**  
-MERN Stack Developer | AI & GenAI Systems | Cloud-Native Applications
- 
-
-🔗 **LinkedIn:**  
-[Mary Lavanitha Sunder](https://www.linkedin.com/in/mary-lavanitha-sunder/)
 
 
 
